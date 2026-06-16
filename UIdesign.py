@@ -139,7 +139,7 @@ use_gradient = st.sidebar.checkbox(
 
 gradient_color = st.sidebar.color_picker(
     "グラデーション2色目",
-    "#4ecdc4"
+    "#537FDC"
 )
 
 # gradient_type = st.sidebar.selectbox(
